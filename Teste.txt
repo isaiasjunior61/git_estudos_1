@@ -1,5 +1,0 @@
-Teste
-
-Arquivo de texto para testar o git
-
-Alteracao 2
